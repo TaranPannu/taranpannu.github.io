@@ -8,7 +8,8 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I hold a joint appointment in the Department of Linguistics and the Department of Modern Languages, Literatures and Cultures. I teach classes in linguistics as well as French language courses at both the intermediate and advanced levels.
+
 
 Heading 1
 ======
