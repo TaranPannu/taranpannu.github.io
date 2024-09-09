@@ -5,7 +5,13 @@ permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-02-17
 venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: <p>
+  <cite>
+    <span style="white-space: nowrap;">Scheidnes, M., & Tuller, L. (2019). Using clausal embedding to identify language impairment in sequential bilinguals. Bilingualism: Language and Cognition, 22, 949–967. 
+    <a href="https://doi.org/10.1017/S1366728918000949" style="white-space: nowrap;">10.1017/S1366728918000949</a>
+    </span>
+  </cite>
+</p>
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
